@@ -1,4 +1,4 @@
-# Space-War
+# Space-War1.0
 My project is a game, which is the simulation of a combat between a spacecraft in space and enemy spacecraft. It is made by C++ with OpenGL. My project is divided into one .h file, two .cpp files and four .bmp files (photos). The most important part of the project is main.cpp.
 ***
 # 1. Usage(operate)
